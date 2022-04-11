@@ -1,0 +1,2 @@
+we can create a folder and then a file within it just by using foldername/filename.foldername
+as example : newfile/hii
